@@ -3,7 +3,7 @@
         "status": true,
         "redirect_url": "",
         "privacy_policy_url": "https://sites.google.com/view/single-ebook-privacy-policy",
-        "pdf_url": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/anjaanbook1%2FAnjaan%20Mohabbat%20By%20Warda%20Makkawi%20Complete%20Free%20Download%20in%20PDF%20(1).pdf?alt=media&token=64a329ae-8f64-4fa3-90e6-05341158894d",
+        "pdf_url": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/anjaanbook1%2FAnjan%20By%20Jiya%20Rana%20(1).pdf?alt=media&token=9fee207e-e78b-4193-8b57-23f3cba4ac73",
         "description": "<p>Android Developer Fundamentals is a training course created by the Google Developer Training team. You learn basic Android programming concepts and build a variety of apps, starting with Hello World and working your way up to apps that use content providers and loaders.</p>",
         "allow_save_book_in_storage": true,
         "swipe_horizontal_reading_book": true,
@@ -49,8 +49,8 @@
     },
     "table_of_contents": [
         {
-            "page_title": "Anjaan Mohabbat",
-            "page_number": 2
+            "page_title": "Anjaan",
+            "page_number": 3
         }
     ],
     "more_apps": [
